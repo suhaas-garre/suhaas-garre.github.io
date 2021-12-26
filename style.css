@@ -66,9 +66,9 @@ header h1 {
   padding: 0 5vw .5em 0;
 }
 
-nav a:not(:last-of-type) {
+nav a {
   margin-right: 1.5vw;
-  color: #DD6E42;
+  color: #F2542D;
 }
 
 /* ------- General ------- */
