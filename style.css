@@ -3,8 +3,8 @@
   /* Color scheme */
 
   --textcolor: #121212;
-  --bgcolor: #fff;
-  --highlight: #0C263E;
+  --bgcolor: #FFFFFA;
+  --highlight: #4F6D7A;
 
 }
 
@@ -68,7 +68,7 @@ header h1 {
 
 nav a:not(:last-of-type) {
   margin-right: 1.5vw;
-  color: #FDB62E;
+  color: #DD6E42;
 }
 
 /* ------- General ------- */
