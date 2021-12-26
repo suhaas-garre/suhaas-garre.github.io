@@ -2,8 +2,8 @@
 
   /* Color scheme */
 
-  --textcolor: #121212;
-  --bgcolor: #FFFFFA;
+  --textcolor: #212529;
+  --bgcolor: #f8f9fa;
   --highlight: #4F6D7A;
 
 }
@@ -84,12 +84,14 @@ a:hover {
 
 section h1 {
   font-size: 1em;
+  color: #212529;
   margin: 1em 0 1em 0;
 }
 
 h2, h3, h4 {
   font-size: 1em;
   font-weight: 600;
+  color: #212529;
   margin: 1.6em 0 .6em 0;
 }
 
