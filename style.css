@@ -59,7 +59,7 @@ header h1 {
 }
 
 nav a {
-  font-size: 1.1em;
+  font-size: 1.05em;
   margin-right: 1.5vw;
   color: #0081A7;
 }
@@ -76,7 +76,7 @@ a:hover {
 }
 
 section h1 {
-  font-size: 1.1em;
+  font-size: 1.05em;
   color: #212529;
   margin: 1em 0 1em 0;
 }
