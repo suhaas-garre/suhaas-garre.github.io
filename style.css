@@ -4,7 +4,7 @@
 
   --textcolor: #121212;
   --bgcolor: #fff;
-  --highlight: #2749c9;
+  --highlight: #0C263E;
 
 }
 
@@ -68,6 +68,7 @@ header h1 {
 
 nav a:not(:last-of-type) {
   margin-right: 1.5vw;
+  color: #FDB62E;
 }
 
 /* ------- General ------- */
