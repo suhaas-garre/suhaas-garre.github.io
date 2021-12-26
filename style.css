@@ -2,18 +2,10 @@
 
   /* Color scheme */
 
-  --textcolor: #212529;
+  --textcolor: #343a40;
   --bgcolor: #f8f9fa;
-  --highlight: #4F6D7A;
+  --highlight: #212529;
 
-}
-
-@media (prefers-color-scheme: dark) {
-  * {
-    --textcolor: #dadada;
-    --bgcolor: #141414;
-    --highlight: #ffc400;
-  }
 }
 
 body {
