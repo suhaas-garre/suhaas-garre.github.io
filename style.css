@@ -17,13 +17,13 @@
 }
 
 body {
-  font-size: 16px;
+  font-size: 14px;
   font-family: system-ui, sans-serif;
   line-height: 1.4;
   color: var(--textcolor);
   background: var(--bgcolor);
   position: relative;
-  max-width: 72em;  /* remove this for a full-width layout */
+  width: 85%;  /* remove this for a full-width layout */
   margin: 0 auto;  /* centers the layout */
 }
 
