@@ -23,7 +23,7 @@ body {
   color: var(--textcolor);
   background: var(--bgcolor);
   position: relative;
-  width: 85%;  /* remove this for a full-width layout */
+  width: 70%;  /* remove this for a full-width layout */
   margin: 0 auto;  /* centers the layout */
 }
 
