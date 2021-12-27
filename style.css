@@ -22,7 +22,7 @@ body {
 /* ------- Sections ------- */
 
 section {
-  padding: calc(3em + 5vw) 5vw 8vw 5vw;
+  padding: calc(4em + 5vw) 5vw 8vw 5vw;
   /* ! Everything below is needed ! */
   display: none;
   position: absolute;
