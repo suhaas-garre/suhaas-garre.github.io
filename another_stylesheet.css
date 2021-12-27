@@ -1,13 +1,22 @@
-<style>
-/* inline css to save number of files. one file suffices! */
+* { margin: 0; padding: 0; box-sizing: border-box;
+
+  /* Color scheme */
+
+  --textcolor: #343a40;
+  --bgcolor: #f8f9fa;
+  --highlight: #212529;
+
+}
+
 body {
     margin: 0;
     padding: 15px;
     font-size: 16px;
     line-height: 1.15;
-    color: #333;
     font-family: system-ui, sans-serif;
     line-height: 1.5;
+    color: var(--textcolor);
+    background: var(--bgcolor);
 }
 
 #wrap {
@@ -62,6 +71,3 @@ ul {
 .bdiv {
     margin-top: 5px;
 }
-
-
-</style>
