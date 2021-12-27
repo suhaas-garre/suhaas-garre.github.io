@@ -1,0 +1,67 @@
+<style>
+/* inline css to save number of files. one file suffices! */
+body {
+    margin: 0;
+    padding: 15px;
+    font-size: 16px;
+    line-height: 1.15;
+    color: #333;
+    font-family: system-ui, sans-serif;
+    line-height: 1.5;
+}
+
+#wrap {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    margin: 0px;
+}
+
+p {
+  margin-bottom: .3em
+}
+
+#links a {
+    margin-right: 5px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+.later {
+  margin-top: 10px
+}
+
+.project {
+    margin-top: 10px;
+}
+
+.pub {
+    margin-top: 10px;
+}
+
+.pub-venue {
+    display: inline;
+    font-weight: bold;
+}
+
+.pub-authors {
+    display: inline;
+    font-style: italic;
+}
+
+.nodot {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.bdiv {
+    margin-top: 5px;
+}
+
+
+</style>

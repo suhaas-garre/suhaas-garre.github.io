@@ -120,3 +120,25 @@ max-width: 64em;  /* remove this for a full-width layout */
 </nav>
 
 <h1>some topics i've been thinking about recently <time datetime="2021-12-25">12.25.2021</time></h1>
+
+
+<div id="links">
+    <a href="https://twitter.com/karpathy">twitter</a>
+    <a href="https://github.com/karpathy">github</a>
+    <a href="https://karpathy.github.io">blog1</a>
+    <a href="https://medium.com/@karpathy">blog2</a>
+    <span style="cursor: pointer; text-decoration: underline;" id="iemail">email</span>
+</div>
+<div id="demail"></div>
+<!-- will reveal email -->
+
+<!-- attempt hiding from spambots :p -->
+<script type="text/javascript">
+var e_is_shown = false;
+document.getElementById('iemail').addEventListener("click", function() {
+    let demail = document.getElementById('demail');
+    demail.innerHTML = 'andrej.karpathy' + ' _at_ ' + 'gmail' + '.com';
+    demail.style.opacity = e_is_shown ? 0 : 1;
+    e_is_shown = !e_is_shown;
+})
+</script>
