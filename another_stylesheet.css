@@ -41,6 +41,23 @@ ul {
     padding-left: 20px;
 }
 
+/* A link that has not been visited */
+a:link {
+    color: #FED766;
+}
+/* A link that has been visited */
+a:visited {
+    color: #FE4A49;
+}
+/* A link that is hovered on */
+a:hover {
+    color: #E6E6EA;
+}
+/* A link that is selected */
+a:active {
+    color: green;
+}
+
 .later {
   margin-top: 10px
 }
