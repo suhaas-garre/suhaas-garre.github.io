@@ -1,0 +1,73 @@
+* { margin: 0; padding: 0; box-sizing: border-box;
+
+  /* Color scheme */
+
+  --textcolor: #343a40;
+  --bgcolor: #f8f9fa;
+  --highlight: #212529;
+
+}
+
+body {
+    margin: 0;
+    padding: 15px;
+    font-size: 16px;
+    line-height: 1.15;
+    font-family: system-ui, sans-serif;
+    line-height: 1.5;
+    color: var(--textcolor);
+    background: var(--bgcolor);
+}
+
+#wrap {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    margin: 0px;
+}
+
+p {
+  margin-bottom: .3em
+}
+
+#links a {
+    margin-right: 5px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+.later {
+  margin-top: 10px
+}
+
+.project {
+    margin-top: 10px;
+}
+
+.pub {
+    margin-top: 10px;
+}
+
+.pub-venue {
+    display: inline;
+    font-weight: bold;
+}
+
+.pub-authors {
+    display: inline;
+    font-style: italic;
+}
+
+.nodot {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.bdiv {
+    margin-top: 5px;
+}
