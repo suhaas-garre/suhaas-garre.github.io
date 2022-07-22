@@ -71,3 +71,7 @@ ul {
 .bdiv {
     margin-top: 5px;
 }
+
+figure {
+    margin: 0;
+}
