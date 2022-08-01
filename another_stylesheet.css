@@ -27,6 +27,11 @@ body {
 
 h1 {
     margin: 0px;
+    color:  #ffb703;
+}
+
+h2 {
+    color: #ffb703;
 }
 
 p {
@@ -47,11 +52,11 @@ a:link {
 }
 /* A link that has been visited */
 a:visited {
-    color: #F79824;
+    color: #07004D;
 }
 /* A link that is hovered on */
 a:hover {
-    color: #07004D;
+    color: #F79824;
 }
 /* A link that is selected */
 a:active {
