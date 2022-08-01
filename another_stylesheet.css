@@ -48,15 +48,15 @@ ul {
 
 /* A link that has not been visited */
 a:link {
-    color: #00698F;
+    color: #219ebc;
 }
 /* A link that has been visited */
 a:visited {
-    color: #07004D;
+    color: #023047;
 }
 /* A link that is hovered on */
 a:hover {
-    color: #F79824;
+    color: #ffb703;
 }
 /* A link that is selected */
 a:active {
