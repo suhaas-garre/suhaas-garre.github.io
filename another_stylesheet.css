@@ -47,11 +47,11 @@ a:link {
 }
 /* A link that has been visited */
 a:visited {
-    color: #cad2c5;
+    color: #F79824;
 }
 /* A link that is hovered on */
 a:hover {
-    color: #ede0d4;
+    color: #07004D;
 }
 /* A link that is selected */
 a:active {
