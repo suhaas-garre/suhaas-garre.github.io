@@ -25,6 +25,18 @@ body {
     margin-right: auto;
 }
 
+#roundedbox {
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid #ffb703;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    border-radius: 15px;
+}
+
 h1 {
     margin: 0px;
     color:  #ffb703;
@@ -64,33 +76,3 @@ a:active {
     color: #ede0d4;
 }
 
-.later {
-  margin-top: 10px
-}
-
-.project {
-    margin-top: 10px;
-}
-
-.pub {
-    margin-top: 10px;
-}
-
-.pub-venue {
-    display: inline;
-    font-weight: bold;
-}
-
-.pub-authors {
-    display: inline;
-    font-style: italic;
-}
-
-.nodot {
-    list-style-type: none;
-    padding-left: 0;
-}
-
-.bdiv {
-    margin-top: 5px;
-}
