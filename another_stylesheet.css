@@ -29,7 +29,7 @@ body {
     max-width: 900px;
     margin-left: auto;
     margin-right: auto;
-    border: 2px solid #0d41e1;
+    border: 2px solid #2484c1;
     padding-left: 5%;
     padding-right: 5%;
     padding-top: 3%;
@@ -41,7 +41,7 @@ body {
     max-width: 900px;
     margin-left: auto;
     margin-right: auto;
-    border-left: 0.2rem solid #0d41e1;
+    border-left: 0.2rem solid #2484c1;
     padding-left: 5%;
     padding-right: 5%;
     padding-top: 3%;
@@ -50,11 +50,11 @@ body {
 
 h1 {
     margin: 0px;
-    color:  #0d41e1;
+    color:  #2484c1;
 }
 
 h2 {
-    color: #0d41e1;
+    color: #2484c1;
     margin-bottom: .5em;
 }
 
