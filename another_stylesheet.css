@@ -48,13 +48,18 @@ body {
     padding-bottom: 3%;
 }
 
+
 h1 {
     margin: 0px;
-    color:  #2484c1;
+    background: -webkit-linear-gradient(#225367, #88e9e9);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 h2 {
-    color: #2484c1;
+    background: -webkit-linear-gradient(#225367, #88e9e9);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
     margin-bottom: .5em;
 }
 
