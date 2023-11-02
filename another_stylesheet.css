@@ -111,19 +111,19 @@ ul {
 }
 
 /* A link that has not been visited */
-a:link {
+/*a:link {
     color: #219ebc;
-}
+}*/
 /* A link that has been visited */
-a:visited {
+/*a:visited {
     color: #023047;
-}
+}*/
 /* A link that is hovered on */
-a:hover {
+/*a:hover {
     color: #ffb703;
-}
+}*/
 /* A link that is selected */
-a:active {
+/*a:active {
     color: #ede0d4;
-}
+}*/
 
